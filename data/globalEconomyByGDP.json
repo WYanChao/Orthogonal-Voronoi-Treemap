@@ -1,0 +1,89 @@
+{
+  "name": "world",
+  "children": [
+    {
+      "name": "Asia",
+      "color": "#f58321",
+      "children": [
+        {"name": "China", "value": 14.84, "code": "CN"},
+        {"name": "Japan", "value": 5.91, "code": "JP"},
+        {"name": "India", "value": 2.83, "code": "IN"},
+        {"name": "South Korea", "value": 1.86, "code": "KR"},
+        {"name": "Russia", "value": 1.8, "code": "RU"},
+        {"name": "Indonesia", "value": 1.16, "code": "ID"},
+        {"name": "Turkey", "value": 0.97, "code": "TR"},
+        {"name": "Saudi Arabia", "value": 0.87, "code": "SA"},
+        {"name": "Iran", "value": 0.57, "code": "IR"},
+        {"name": "Thaïland", "value": 0.53, "code": "TH"},
+        {"name": "United Arab Emirates", "value": 0.5, "code": "AE"},
+        {"name": "Hong Kong", "value": 0.42, "code": "HK"},
+        {"name": "Israel", "value": 0.4, "code": "IL"},
+        {"name": "Malasya", "value": 0.4, "code": "MY"},
+        {"name": "Singapore", "value": 0.39, "code": "SG"},
+        {"name": "Philippines", "value": 0.39, "code": "PH"}
+      ]
+    },
+    {
+      "name": "North America",
+      "color": "#ef1621",
+      "children": [
+        {"name": "United States", "value": 24.32, "code": "US"},
+        {"name": "Canada", "value": 2.09, "code": "CA"},
+        {"name": "Mexico", "value": 1.54, "code": "MX"}
+      ]
+    },
+    {
+      "name": "Europe",
+      "color": "#77bc45",
+      "children": [
+        {"name": "Germany", "value": 4.54, "code": "DE"},
+        {"name": "United Kingdom", "value": 3.85, "code": "UK"},
+        {"name": "France", "value": 3.26, "code": "FR"},
+        {"name": "Italy", "value": 2.46, "code": "IT"},
+        {"name": "Spain", "value": 1.62, "code": "ES"},
+        {"name": "Netherlands", "value": 1.01, "code": "NL"},
+        {"name": "Switzerland", "value": 0.9, "code": "CH"},
+        {"name": "Sweden", "value": 0.67, "code": "SE"},
+        {"name": "Poland", "value": 0.64, "code": "PL"},
+        {"name": "Belgium", "value": 0.61, "code": "BE"},
+        {"name": "Norway", "value": 0.52, "code": "NO"},
+        {"name": "Austria", "value": 0.51, "code": "AT"},
+        {"name": "Denmark", "value": 0.4, "code": "DK"},
+        {"name": "Ireland", "value": 0.38, "code": "IE"}
+      ]
+    },
+    {
+      "name": "South America",
+      "color": "#4aaaea",
+      "children": [
+        {"name": "Brazil", "value": 2.39, "code": "BR"},
+        {"name": "Argentina", "value": 0.79, "code": "AR"},
+        {"name": "Venezuela", "value": 0.5, "code": "VE"},
+        {"name": "Colombia", "value": 0.39, "code": "CO"}
+      ]
+    },
+    {
+      "name": "Australia",
+      "color": "#00acad",
+      "children": [
+        {"name": "Australia", "value": 1.81, "code": "AU"}
+      ]
+    },
+    {
+      "name": "Africa",
+      "color": "#f575a3",
+      "children": [
+        {"name": "Nigeria", "value": 0.65, "code": "NG"},
+        {"name": "Egypt", "value": 0.45, "code": "EG"},
+        {"name": "South Africa", "value": 0.42, "code": "ZA"}
+      ]
+    },
+    {
+      "name": "Rest of the World",
+      "color": "#592c94",
+      "children": [
+        {"name": "Rest of the World", "value": 9.41, "code": "RotW"}
+      ]
+    }
+  ]
+}

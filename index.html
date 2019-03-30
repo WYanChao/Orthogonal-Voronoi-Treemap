@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Orthogonal Voronoi Demo</title>
+    <link href='./src/index.css' rel='stylesheet' type='text/css'>
+	<style>
+		svg {
+		  font: 20px sans-serif;
+		}
+	</style>
+  </head>
+  <body>
+    <svg></svg>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.4.3/seedrandom.min.js"></script> <!-- Set the random seed -->
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+
+    <!-- local file -->
+  	<script type="text/javascript", src="./libs/TreeColors/TreeColors.js"></script>
+
+    <script type="text/javascript", src="./src/polygon-clipping.umd.js"></script>    
+    <script type="text/javascript", src="./libs/d3-weighted-voronoi-local-WYC.js"></script> 
+    <!--  -->
+    <script type="text/javascript", src="./libs/d3-voronoi-map-local.js"></script>
+    <script type="text/javascript", src="./libs/d3-voronoi-treemap.js"></script>
+
+    <!-- Add my own JavaScript package here -->
+    <script type="text/javascript", src="./src/OMBB.js"></script> 
+    <!-- Calculate the Oriented Minimum Bounding Box -->
+    <script type="text/javascript", src="./src/WYCGeometry.js"></script> 
+    <!-- Always be the last one-->
+    <!-- <script type="text/javascript", src="./index.js"></script>  -->
+    <script type="text/javascript", src="./indexAdvance.js"></script> 
+
+  </body>
+</html>

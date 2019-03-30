@@ -1,0 +1,68 @@
+svg {
+  background-color: rgb(250,250,250);
+}
+
+#title {
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-size: x-large;
+}
+
+text.tiny {
+  font-size: 10pt;
+}
+text.light {
+  fill: lightgrey
+}
+
+.world {
+  stroke: lightgrey;
+  stroke-width: 4px;
+}
+
+.cell {
+  stroke: white;
+  stroke-width: 1px;
+}
+
+.label {
+  text-anchor: middle;
+  fill: black;
+}
+
+.label>.name {
+  dominant-baseline: text-after-edge;
+}
+
+.label>.value {
+  dominant-baseline: text-before-edge;
+}
+
+.hoverer {
+  fill: transparent;
+  stroke: white;
+  stroke-width:0px;
+}
+
+.hoverer:hover {
+  stroke-width: 3px;
+}
+
+.legend-color {
+  stroke-width: 1px;
+  stroke:darkgrey;
+}
+
+.aabb {
+  fill: none;
+  stroke: black;
+  stroke-width: 2;
+  display: block;
+}
+
+.ombb {
+  fill: none;
+  stroke: darkgrey;
+  stroke-width: 2;
+  display: block;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "children": [
+    {"name": "A", "value": 1, "code": "A", "x": 150, "y": 150},
+    {"name": "B", "value": 1, "code": "B", "x": 150, "y": 450},
+    {"name": "C", "value": 1, "code": "C", "x": 150, "y": 750},
+    {"name": "D", "value": 1, "code": "D", "x": 450, "y": 150},
+    {"name": "E", "value": 1, "code": "E", "x": 450, "y": 750},
+    {"name": "F", "value": 1, "code": "F", "x": 750, "y": 150},
+    {"name": "H", "value": 1, "code": "H", "x": 751, "y": 449},
+    {"name": "H", "value": 1, "code": "H", "x": 750, "y": 750}
+  ]
+}

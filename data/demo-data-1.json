@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "children": [
+    {"name": "Apple", "value": 1, "code": "A", "x": 24, "y": 40},
+    {"name": "Banana", "value": 1, "code": "B", "x": 48, "y": 108},
+    {"name": "Cat", "value": 1, "code": "C", "x": 80, "y": 20},
+    {"name": "Dog", "value": 1, "code": "D", "x": 130, "y": 60},
+    {"name": "Egg", "value": 1, "code": "E", "x": 165, "y": 132},
+    {"name": "Five", "value": 1, "code": "F", "x": 206, "y": 14}
+  ]
+}
